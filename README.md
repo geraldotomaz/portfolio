@@ -1,7 +1,7 @@
 # portfolio
 
-# For usage install package.json
-$ npm install
+## For usage install package.json ##
+  $ npm install
 
-# For compile compression image
-$ grunt
+## For compile compression image ##
+  $ grunt
